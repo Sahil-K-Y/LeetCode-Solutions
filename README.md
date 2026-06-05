@@ -63,7 +63,7 @@ To maintain consistency and reduce boilerplate, all solutions follow a standardi
 
 ## 🚀 Quick Links
 
-- [LeetCode Profile](https://leetcode.com/Sahil-K-Y)
+- [LeetCode Profile](https://leetcode.com/u/SKY_x_SKY)
 - [Daily Challenges](./daily)
 - [Hard Problems](./hard)
 
