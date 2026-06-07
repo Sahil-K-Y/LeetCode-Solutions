@@ -10,9 +10,9 @@
 using namespace std;
 
 /*
- * Problem: 
+ * Problem: 3884. First Matching Character From Both Ends
  * Difficulty: Easy
- * Link: 
+ * Link: https://leetcode.com/problems/first-matching-character-from-both-ends/
  */
 
 class Solution {
