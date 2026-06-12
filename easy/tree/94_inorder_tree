@@ -12,6 +12,5 @@ public:
         vector<int>ans;
         inorder(root,ans);
         return ans;
-        
     }
 };
