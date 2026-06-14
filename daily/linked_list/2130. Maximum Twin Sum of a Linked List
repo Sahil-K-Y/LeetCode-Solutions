@@ -1,0 +1,21 @@
+class Solution {
+public:
+    int pairSum(ListNode* head) {
+        ListNode*tail=head;
+        vector<int>arr;
+        int n=0;
+        while(tail){
+            arr.push_back(tail->val);
+            tail=tail->next;
+            n++;
+        }
+        int i=0;
+        long long ans=0;
+        while(i<n/2){
+            long long sum=arr[i]+arr[n-1-i];
+            ans=max(ans,sum);
+            i++;
+        }
+        return ans;
+    }
+};
