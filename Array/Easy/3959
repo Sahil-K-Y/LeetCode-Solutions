@@ -1,0 +1,15 @@
+class Solution {
+public:
+    bool checkGoodInteger(int n) {
+        int digit=n;
+        int sum=0;
+        int sq=0;
+        while (digit>0){
+            int temp=digit %10;
+            sum+=temp;
+            sq+=(temp*temp);
+            digit/=10;
+        }
+        return (sq-sum)>=50;
+    }
+};
