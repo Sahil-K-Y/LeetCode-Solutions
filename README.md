@@ -1,20 +1,17 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,100:FF6B35&height=200&section=header&text=LeetCode%20Solutions&fontSize=50&fontColor=white&animation=fadeIn&fontAlignY=38&desc=150%2B%20C%2B%2B%20Solutions%20|%20Easy%20•%20Medium%20•%20Hard&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,100:FF6B35&height=200&section=header&text=LeetCode%20Solutions&fontSize=50&fontColor=white&animation=fadeIn&fontAlignY=38&desc=150%2B%20C%2B%2B%20Solutions%20|%20Organized%20by%20Topic&descAlignY=55&descSize=18" />
 
 <br/>
 
-<!-- Badges -->
 <img src="https://img.shields.io/badge/Total%20Solutions-150%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Topics-Arrays%20|%20Trees%20|%20Graphs%20|%20DP-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Topics-10%2B-blueviolet?style=for-the-badge"/>
 <img src="https://img.shields.io/github/last-commit/Sahil-K-Y/LeetCode-Solutions?style=for-the-badge&color=green&label=Last%20Updated"/>
 
 <br/><br/>
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFA500&center=true&vCenter=true&width=700&lines=Grinding+LeetCode+daily+%F0%9F%94%A5;150%2B+problems+solved+in+C%2B%2B;Arrays+%7C+Trees+%7C+Graphs+%7C+DP+%7C+Stack;Easy+%E2%9C%85+%7C+Medium+%F0%9F%9F%A1+%7C+Hard+%F0%9F%94%B4" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFA500&center=true&vCenter=true&width=700&lines=Grinding+LeetCode+daily+%F0%9F%94%A5;150%2B+problems+solved+in+C%2B%2B;Organized+by+Topic+%E2%86%92+Difficulty;Arrays+%7C+Trees+%7C+Graphs+%7C+DP+%7C+Stack" alt="Typing SVG"/>
 
 </div>
 
@@ -22,22 +19,7 @@
 
 ## 📋 Overview
 
-This repository contains my **150+ LeetCode solutions** written in **C++**, organized by **difficulty** and **topic**. Each solution is clean, optimized, and documented. I solve problems daily as part of my DSA journey.
-
----
-
-## 📊 Progress Dashboard
-
-<div align="center">
-
-| Difficulty | Count | Status |
-|:---:|:---:|:---:|
-| 🟢 Easy | 80+ | ✅ Active |
-| 🟡 Medium | 50+ | ✅ Active |
-| 🔴 Hard | 10+ | ✅ Active |
-| 📅 Daily Challenge | 60+ | ✅ Active |
-
-</div>
+**150+ LeetCode solutions** in **C++**, organized **topic-first** then by difficulty. Clean, optimized, and documented solutions — updated daily.
 
 ---
 
@@ -46,63 +28,67 @@ This repository contains my **150+ LeetCode solutions** written in **C++**, orga
 ```
 LeetCode-Solutions/
 │
-├── 📁 easy/
-│   ├── array/          # Pascal's Triangle, Matrix Diagonal, Array Partition...
-│   ├── tree/           # Inorder, Preorder, Path Sum, Diameter, LCA...
-│   ├── math/           # Happy Number, Power of Two, Add Binary...
-│   ├── string/         # Roman to Integer, Word Pattern, First Unique Char...
-│   ├── linked_list/    # Merge Two Sorted Lists
-│   ├── binary_search/  # First Bad Version
-│   ├── graph/          # Flood Fill
-│   └── stack/          # Next Greater Element
+├── 📦 Array/
+│   ├── Easy/      → 20+ problems (Pascal, Pivot Index, Set Mismatch...)
+│   ├── Medium/    → 10+ problems (Merge Intervals, 3Sum Closest...)
+│   └── Hard/      → Trapping Rain Water
 │
-├── 📁 medium/
-│   ├── array/          # Merge Intervals, 3Sum Closest, Diagonal Traverse...
-│   ├── tree/           # Level Order, BST Validate, Right Side View...
-│   ├── graph/          # Number of Islands, Course Schedule, Rotting Oranges
-│   ├── string/         # Longest Substring, Group Anagrams...
-│   ├── math/           # Integer to Roman, Gray Code, Sum of Squares...
-│   ├── linked_list/    # Odd Even Linked List, Delete Node...
-│   ├── stack/          # Sum of Subarray Minimums
-│   └── backtracking/   # Subsets II
+├── 🌳 Tree/
+│   ├── Easy/      → 20+ problems (Inorder, Diameter, Path Sum, LCA...)
+│   ├── Medium/    → 10+ problems (Level Order, Right Side View, BST...)
+│   └── Hard/      → Max Path Sum, Vertical Traversal
 │
-├── 📁 hard/
-│   ├── array/          # Trapping Rain Water
-│   ├── tree/           # Binary Tree Max Path Sum, Vertical Order Traversal
-│   ├── stack/          # Sliding Window Max, Longest Valid Parentheses
-│   └── math/           # Basic Calculator
+├── 📐 Math/
+│   ├── Easy/      → Power of Two, Add Binary, Ugly Number, Happy Number...
+│   ├── Medium/    → Integer to Roman, Gray Code, Four Divisors...
+│   └── Hard/      → Basic Calculator
 │
-├── 📁 daily/           # Daily Challenge Solutions
-│   ├── array/          # 40+ daily array problems
-│   ├── string/         # String manipulation challenges
-│   ├── math/           # Bit manipulation, binary math
-│   ├── tree/           # Tree traversal dailies
-│   ├── graph/          # Graph traversal dailies
-│   └── linked_list/    # Linked list dailies
+├── 🔤 String/
+│   ├── Easy/      → Roman to Integer, Word Pattern, Valid Anagram...
+│   └── Medium/    → Longest Substring, Group Anagrams...
 │
-├── 📄 Solved_Problems.txt
-├── 📄 solved_problems.json
-└── 📄 template.cpp
+├── 🗺️ Graph/
+│   ├── Easy/      → Flood Fill
+│   └── Medium/    → Number of Islands, Course Schedule I & II, Rotting Oranges
+│
+├── 🔗 Linked-List/
+│   ├── Easy/      → Merge Two Sorted Lists
+│   └── Medium/    → Odd Even List, Delete Node, Rotate List
+│
+├── 📚 Stack/
+│   ├── Easy/      → Next Greater Element, Remove Outermost Parentheses
+│   ├── Medium/    → Sum of Subarray Minimums
+│   └── Hard/      → Sliding Window Max, Longest Valid Parentheses, Maximal Rectangle
+│
+├── 🔍 Binary-Search/
+│   └── Easy/      → First Bad Version
+│
+├── 🔄 Backtracking/
+│   └── Medium/    → Subsets II
+│
+├── 📅 daily/             → 70+ Daily Challenge Solutions (array, string, math, tree, graph)
+├── 📄 template.cpp       → C++ solution template
+└── 📄 README.md
 ```
 
 ---
 
-## 🧩 Topic Coverage
+## 📊 Topic-wise Breakdown
 
 <div align="center">
 
-| Topic | Easy | Medium | Hard | Daily |
-|:---:|:---:|:---:|:---:|:---:|
-| 📦 Arrays | ✅ | ✅ | ✅ | ✅ |
-| 🌳 Trees | ✅ | ✅ | ✅ | ✅ |
-| 🔗 Linked Lists | ✅ | ✅ | — | ✅ |
-| 📐 Math / Bit Manip | ✅ | ✅ | ✅ | ✅ |
-| 🔤 Strings | ✅ | ✅ | — | ✅ |
-| 🗺️ Graphs | ✅ | ✅ | — | ✅ |
-| 📚 Stack | ✅ | ✅ | ✅ | — |
-| 🔍 Binary Search | ✅ | — | — | — |
-| 🔄 Backtracking | — | ✅ | — | — |
-| 💡 Dynamic Programming | — | ✅ | — | — |
+| Topic | 🟢 Easy | 🟡 Medium | 🔴 Hard | Total |
+|:---|:---:|:---:|:---:|:---:|
+| 📦 Array | 20+ | 10+ | 1 | 30+ |
+| 🌳 Tree | 20+ | 10+ | 2 | 30+ |
+| 📐 Math | 8+ | 5+ | 1 | 14+ |
+| 🔤 String | 5+ | 3+ | — | 8+ |
+| 🗺️ Graph | 1 | 6+ | — | 7+ |
+| 📚 Stack | 2 | 1 | 4 | 7+ |
+| 🔗 Linked-List | 1 | 2+ | — | 3+ |
+| 🔍 Binary-Search | 1 | — | — | 1 |
+| 🔄 Backtracking | — | 1 | — | 1 |
+| 📅 **Daily** | — | — | — | **70+** |
 
 </div>
 
@@ -113,8 +99,8 @@ LeetCode-Solutions/
 > 🏆 **42. Trapping Rain Water** — Classic two-pointer hard problem  
 > 🌀 **239. Sliding Window Maximum** — Monotonic deque optimization  
 > 🌲 **987. Vertical Order Traversal** — Complex BFS + map solution  
-> ⚙️ **207 & 210. Course Schedule I & II** — Topological sort  
-> 🔴 **84. Largest Rectangle in Histogram** — Stack-based O(n) solution  
+> ⚙️ **207 & 210. Course Schedule I & II** — Topological sort (BFS/DFS)  
+> 🔴 **84 & 85. Largest Rectangle / Maximal Rectangle** — Stack-based O(n)  
 
 ---
 
@@ -123,13 +109,10 @@ LeetCode-Solutions/
 ```cpp
 /*
  * Problem: [Problem Name]
- * Link: https://leetcode.com/problems/...
  * Difficulty: Easy / Medium / Hard
- * Approach: [Brief description]
- * Time Complexity: O(?)
- * Space Complexity: O(?)
+ * Topic: Array / Tree / Graph / ...
+ * Time: O(?)  |  Space: O(?)
  */
-
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -152,8 +135,6 @@ public:
 *"Every problem solved is a step closer to mastery."* 🚀
 
 </div>
-
----
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,100:FF6B35&height=100&section=footer"/>
