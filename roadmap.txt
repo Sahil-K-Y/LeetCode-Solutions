@@ -1,0 +1,56 @@
+================================================================================
+🚀 DEDUPLICATED DSA MASTER ROADMAP (JUNE 27 - DECEMBER 31)
+================================================================================
+Goal: 188 Days of 100% Unique LeetCode Problems for Comprehensive SDE Readiness.
+
+📅 Phase Schedule:
+
+Phase 1: Trees & Basic Structures (Days 1–17)
+  - Binary Tree (Days 1–10)
+  - Binary Search Tree (BST) (Days 11–17)
+
+Phase 2: Searching & Priority Queues (Days 18–31)
+  - Binary Search (Days 18–25)
+  - Heap (Priority Queue) (Days 26–31)
+
+Phase 3: Advanced Trees & Graph Fundamentals (Days 32–40)
+  - Trie (Days 32–36)
+  - Graph Basics (Days 37–40)
+
+Phase 4: Core Graph Algorithms (Days 41–59)
+  - DFS (Days 41–45)
+  - BFS (Days 46–50)
+  - Union-Find (DSU) (Days 51–55)
+  - Topological Sort (Days 56–59)
+
+Phase 5: Advanced Graphs & Classical Recursion (Days 60–82)
+  - Shortest Path (Days 60–65)
+  - Minimum Spanning Tree (MST) (Days 66–69)
+  - Recursion (Days 70–75)
+  - Backtracking (Days 76–82)
+
+Phase 6: Optimization & Dynamic Programming (Days 83–114)
+  - Greedy (Days 83–89)
+  - Dynamic Programming (Days 90–114)
+
+Phase 7: Advanced Data Structures (Linear & Range) (Days 115–133)
+  - Monotonic Stack (Days 115–119)
+  - Monotonic Queue (Days 120–123)
+  - Segment Tree (Days 124–129)
+  - Fenwick Tree (BIT) (Days 130–133)
+
+Phase 8: Bitwise, Hashing, & String Matching (Days 134–152)
+  - Bit Manipulation (Days 134–139)
+  - Rolling Hash (Days 140–143)
+  - String Matching (KMP/Z) (Days 144–148)
+  - Suffix Array (Days 149–152)
+
+Phase 9: Mathematics & Game Theory (Days 153–173)
+  - Number Theory (Days 153–157)
+  - Combinatorics (Days 158–161)
+  - Geometry (Days 162–165)
+  - Probability & Statistics (Days 166–169)
+  - Game Theory (Days 170–173)
+
+Phase 10: Final SDE Revision Sprint (Days 174–188)
+  - Mixed SDE Revision Sprint (Days 174–188)

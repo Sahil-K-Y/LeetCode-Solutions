@@ -1,0 +1,1353 @@
+[ignoring loop detection]
+================================================================================
+📅 100% DEDUPLICATED DSA ROADMAP SCHEDULE: JUNE 27 - DECEMBER 31
+================================================================================
+Plan: Strictly follow the 29-topic ordered structure divided into 10 phases.
+Target: Solve at least 2 out of the 3 listed problems daily.
+
+================================================================================
+🚀 PHASE 1: TREES & BASIC STRUCTURES (DAYS 1-17)
+================================================================================
+Day 1 | 27 June 2026 (Saturday)
+Topic: Binary Tree
+Subtopic/Concept: Inorder, Preorder, and Postorder DFS traversals
+  - Problem 1: 94. Binary Tree Inorder Traversal
+  - Problem 2: 144. Binary Tree Preorder Traversal
+  - Problem 3: 145. Binary Tree Postorder Traversal
+------------------------------------------------------------
+Day 2 | 28 June 2026 (Sunday)
+Topic: Binary Tree
+Subtopic/Concept: Standard Level Order Traversals (BFS)
+  - Problem 1: 102. Binary Tree Level Order Traversal
+  - Problem 2: 107. Binary Tree Level Order Traversal II
+  - Problem 3: 103. Binary Tree Zigzag Level Order Traversal
+------------------------------------------------------------
+Day 3 | 29 June 2026 (Monday)
+Topic: Binary Tree
+Subtopic/Concept: Depth, Min Depth, and Tree Inversion
+  - Problem 1: 104. Maximum Depth of Binary Tree
+  - Problem 2: 111. Minimum Depth of Binary Tree
+  - Problem 3: 226. Invert Binary Tree
+------------------------------------------------------------
+Day 4 | 30 June 2026 (Tuesday)
+Topic: Binary Tree
+Subtopic/Concept: Tree Equality, Symmetry, and Balance
+  - Problem 1: 100. Same Tree
+  - Problem 2: 101. Symmetric Tree
+  - Problem 3: 110. Balanced Binary Tree
+------------------------------------------------------------
+Day 5 | 01 July 2026 (Wednesday)
+Topic: Binary Tree
+Subtopic/Concept: Root-to-Leaf Path Sum problems
+  - Problem 1: 112. Path Sum
+  - Problem 2: 113. Path Sum II
+  - Problem 3: 437. Path Sum III
+------------------------------------------------------------
+Day 6 | 02 July 2026 (Thursday)
+Topic: Binary Tree
+Subtopic/Concept: Binary Tree Paths and Maximum Path Sum
+  - Problem 1: 129. Sum Root to Leaf Numbers
+  - Problem 2: 257. Binary Tree Paths
+  - Problem 3: 124. Binary Tree Maximum Path Sum
+------------------------------------------------------------
+Day 7 | 03 July 2026 (Friday)
+Topic: Binary Tree
+Subtopic/Concept: LCA of Binary Trees & Tree Diameter
+  - Problem 1: 543. Diameter of Binary Tree
+  - Problem 2: 236. Lowest Common Ancestor of a Binary Tree
+  - Problem 3: 114. Flatten Binary Tree to Linked List
+------------------------------------------------------------
+Day 8 | 04 July 2026 (Saturday)
+Topic: Binary Tree
+Subtopic/Concept: Next Right Pointers & Traversal Construction
+  - Problem 1: 116. Populating Next Right Pointers in Each Node
+  - Problem 2: 117. Populating Next Right Pointers in Each Node II
+  - Problem 3: 105. Construct Binary Tree from Preorder and Inorder Traversal
+------------------------------------------------------------
+Day 9 | 05 July 2026 (Sunday)
+Topic: Binary Tree
+Subtopic/Concept: Construct Tree from Inorder/Postorder & Node Counting
+  - Problem 1: 106. Construct Binary Tree from Inorder and Postorder Traversal
+  - Problem 2: 222. Count Complete Tree Nodes
+  - Problem 3: 404. Sum of Left Leaves
+------------------------------------------------------------
+Day 10 | 06 July 2026 (Monday)
+Topic: Binary Tree
+Subtopic/Concept: Subtree Sum & Bottom Left Row Values
+  - Problem 1: 508. Most Frequent Subtree Sum
+  - Problem 2: 513. Find Bottom Left Tree Value
+  - Problem 3: 515. Find Largest Value in Each Tree Row
+------------------------------------------------------------
+Day 11 | 07 July 2026 (Tuesday)
+Topic: Binary Search Tree (BST)
+Subtopic/Concept: BST Search, Insertion, and Validation properties
+  - Problem 1: 98. Validate Binary Search Tree
+  - Problem 2: 700. Search in a Binary Search Tree
+  - Problem 3: 701. Insert into a Binary Search Tree
+------------------------------------------------------------
+Day 12 | 08 July 2026 (Wednesday)
+Topic: Binary Search Tree (BST)
+Subtopic/Concept: BST Deletion & Kth Smallest Element search
+  - Problem 1: 450. Delete Node in a BST
+  - Problem 2: 230. Kth Smallest Element in a BST
+  - Problem 3: 108. Convert Sorted Array to BST
+------------------------------------------------------------
+Day 13 | 09 July 2026 (Thursday)
+Topic: Binary Search Tree (BST)
+Subtopic/Concept: Convert Sorted List to BST, BST Iterator & Recovery
+  - Problem 1: 109. Convert Sorted List to BST
+  - Problem 2: 173. Binary Search Tree Iterator
+  - Problem 3: 99. Recover Binary Search Tree
+------------------------------------------------------------
+Day 14 | 10 July 2026 (Friday)
+Topic: Binary Search Tree (BST)
+Subtopic/Concept: Two Sum in BST & LCA of a BST
+  - Problem 1: 653. Two Sum IV - Input is a BST
+  - Problem 2: 235. Lowest Common Ancestor of a BST
+  - Problem 3: 1008. Construct BST from Preorder Traversal
+------------------------------------------------------------
+Day 15 | 11 July 2026 (Saturday)
+Topic: Binary Search Tree (BST)
+Subtopic/Concept: Zigzag Paths, Deepest Leaves Sum, and Value Deletion
+  - Problem 1: 1372. Longest ZigZag Path in a Binary Tree
+  - Problem 2: 1302. Deepest Leaves Sum
+  - Problem 3: 1325. Delete Leaves With a Given Value
+------------------------------------------------------------
+Day 16 | 12 July 2026 (Sunday)
+Topic: Binary Search Tree (BST)
+Subtopic/Concept: Find Mode & Minimum Absolute Difference in BST
+  - Problem 1: 501. Find Mode in Binary Search Tree
+  - Problem 2: 530. Minimum Absolute Difference in BST
+  - Problem 3: 538. Convert BST to Greater Tree
+------------------------------------------------------------
+Day 17 | 13 July 2026 (Monday)
+Topic: Binary Search Tree (BST)
+Subtopic/Concept: Trim BST & BST Nodes distance calculation
+  - Problem 1: 669. Trim a Binary Search Tree
+  - Problem 2: 783. Minimum Distance Between BST Nodes
+  - Problem 3: 897. Increasing Order Search Tree
+
+================================================================================
+🚀 PHASE 2: SEARCHING & PRIORITY QUEUES (DAYS 18-31)
+================================================================================
+Day 18 | 14 July 2026 (Tuesday)
+Topic: Binary Search
+Subtopic/Concept: Standard BS & Search in Sorted 2D Matrix
+  - Problem 1: 704. Binary Search
+  - Problem 2: 35. Search Insert Position
+  - Problem 3: 74. Search a 2D Matrix
+------------------------------------------------------------
+Day 19 | 15 July 2026 (Wednesday)
+Topic: Binary Search
+Subtopic/Concept: Search in 2D Matrix II & Rotated Sorted Arrays
+  - Problem 1: 240. Search a 2D Matrix II
+  - Problem 2: 33. Search in Rotated Sorted Array
+  - Problem 3: 81. Search in Rotated Sorted Array II
+------------------------------------------------------------
+Day 20 | 16 July 2026 (Thursday)
+Topic: Binary Search
+Subtopic/Concept: Minimum in Rotated Array & Peak Find
+  - Problem 1: 153. Find Minimum in Rotated Sorted Array
+  - Problem 2: 154. Find Minimum in Rotated Sorted Array II
+  - Problem 3: 162. Find Peak Element
+------------------------------------------------------------
+Day 21 | 17 July 2026 (Friday)
+Topic: Binary Search
+Subtopic/Concept: First Bad Version & Binary Search on Answer
+  - Problem 1: 278. First Bad Version
+  - Problem 2: 875. Koko Eating Bananas
+  - Problem 3: 1011. Capacity To Ship Packages Within D Days
+------------------------------------------------------------
+Day 22 | 18 July 2026 (Saturday)
+Topic: Binary Search
+Subtopic/Concept: Median of Sorted Arrays & Single Element in Sorted Array
+  - Problem 1: 4. Median of Two Sorted Arrays
+  - Problem 2: 540. Single Element in a Sorted Array
+  - Problem 3: 703. Kth Largest Element in a Stream
+------------------------------------------------------------
+Day 23 | 19 July 2026 (Sunday)
+Topic: Binary Search
+Subtopic/Concept: First & Last Position in Sorted Array, Sqrt(x)
+  - Problem 1: 34. Find First and Last Position of Element in Sorted Array
+  - Problem 2: 69. Sqrt(x)
+  - Problem 3: 275. H-Index II
+------------------------------------------------------------
+Day 24 | 20 July 2026 (Monday)
+Topic: Binary Search
+Subtopic/Concept: LIS with BS, Valid Perfect Square, Arranging Coins
+  - Problem 1: 300. Longest Increasing Subsequence (Binary Search version)
+  - Problem 2: 367. Valid Perfect Square
+  - Problem 3: 441. Arranging Coins
+------------------------------------------------------------
+Day 25 | 21 July 2026 (Tuesday)
+Topic: Binary Search
+Subtopic/Concept: K Closest Elements, Peak Index, Time Based Key-Value
+  - Problem 1: 658. Find K Closest Elements
+  - Problem 2: 852. Peak Index in a Mountain Array
+  - Problem 3: 981. Time Based Key-Value Store
+------------------------------------------------------------
+Day 26 | 22 July 2026 (Wednesday)
+Topic: Heap (Priority Queue)
+Subtopic/Concept: Kth Largest Element in Stream / Array & Top K Frequent
+  - Problem 1: 703. Kth Largest Element in a Stream
+  - Problem 2: 215. Kth Largest Element in an Array
+  - Problem 3: 347. Top K Frequent Elements
+------------------------------------------------------------
+Day 27 | 23 July 2026 (Thursday)
+Topic: Heap (Priority Queue)
+Subtopic/Concept: K Closest to Origin, Task Scheduler, Twitter Design
+  - Problem 1: 973. K Closest Points to Origin
+  - Problem 2: 621. Task Scheduler
+  - Problem 3: 355. Design Twitter
+------------------------------------------------------------
+Day 28 | 24 July 2026 (Friday)
+Topic: Heap (Priority Queue)
+Subtopic/Concept: Median from Stream, Merge K Lists, Ugly Number II
+  - Problem 1: 295. Find Median from Data Stream
+  - Problem 2: 23. Merge k Sorted Lists
+  - Problem 3: 264. Ugly Number II
+------------------------------------------------------------
+Day 29 | 25 July 2026 (Saturday)
+Topic: Heap (Priority Queue)
+Subtopic/Concept: K Pairs with Smallest Sums, Sort by Frequency, Top K Words
+  - Problem 1: 373. Find K Pairs with Smallest Sums
+  - Problem 2: 451. Sort Characters By Frequency
+  - Problem 3: 692. Top K Frequent Words
+------------------------------------------------------------
+Day 30 | 26 July 2026 (Sunday)
+Topic: Heap (Priority Queue)
+Subtopic/Concept: Reorganize String, Last Stone Weight, K Weakest Rows
+  - Problem 1: 767. Reorganize String
+  - Problem 2: 1046. Last Stone Weight
+  - Problem 3: 1337. The K Weakest Rows in a Matrix
+------------------------------------------------------------
+Day 31 | 27 July 2026 (Monday)
+Topic: Heap (Priority Queue)
+Subtopic/Concept: Single-Threaded CPU, Process Tasks using Servers, Halve Array Sum
+  - Problem 1: 1834. Single-Threaded CPU
+  - Problem 2: 1882. Process Tasks Using Servers
+  - Problem 3: 2208. Minimum Operations to Halve Array Sum
+
+================================================================================
+🚀 PHASE 3: ADVANCED TREES & GRAPH FUNDAMENTALS (DAYS 32-40)
+================================================================================
+Day 32 | 28 July 2026 (Tuesday)
+Topic: Trie
+Subtopic/Concept: Trie Implementation & Add/Search Words
+  - Problem 1: 208. Implement Trie (Prefix Tree)
+  - Problem 2: 211. Design Add and Search Words Data Structure
+  - Problem 3: 212. Word Search II
+------------------------------------------------------------
+Day 33 | 29 July 2026 (Wednesday)
+Topic: Trie
+Subtopic/Concept: Replace Words, Map Sum Pairs, Max XOR of Two Numbers
+  - Problem 1: 648. Replace Words
+  - Problem 2: 677. Map Sum Pairs
+  - Problem 3: 421. Maximum XOR of Two Numbers in an Array
+------------------------------------------------------------
+Day 34 | 30 July 2026 (Thursday)
+Topic: Trie
+Subtopic/Concept: Longest Common Prefix, Magic Dictionary, Longest Word
+  - Problem 1: 14. Longest Common Prefix
+  - Problem 2: 676. Implement Magic Dictionary
+  - Problem 3: 720. Longest Word in Dictionary
+------------------------------------------------------------
+Day 35 | 31 July 2026 (Friday)
+Topic: Trie
+Subtopic/Concept: Prefix and Suffix Search, Stream of Characters, Remove Sub-Folders
+  - Problem 1: 745. Prefix and Suffix Search
+  - Problem 2: 1032. Stream of Characters
+  - Problem 3: 1233. Remove Sub-Folders from the Filesystem
+------------------------------------------------------------
+Day 36 | 01 August 2026 (Saturday)
+Topic: Trie
+Subtopic/Concept: Search Suggestions, Maximum XOR, Trie II
+  - Problem 1: 1268. Search Suggestions System
+  - Problem 2: 1707. Maximum XOR With an Element From Array
+  - Problem 3: 1804. Implement Trie II (Prefix Tree)
+------------------------------------------------------------
+Day 37 | 02 August 2026 (Sunday)
+Topic: Graph Basics
+Subtopic/Concept: Clone Graph & Number of Provinces
+  - Problem 1: 133. Clone Graph
+  - Problem 2: 547. Number of Provinces
+  - Problem 3: 841. Keys and Rooms
+------------------------------------------------------------
+Day 38 | 03 August 2026 (Monday)
+Topic: Graph Basics
+Subtopic/Concept: Town Judge, Center of Star, Path Existence
+  - Problem 1: 997. Find the Town Judge
+  - Problem 2: 1791. Find Center of Star Graph
+  - Problem 3: 1971. Find if Path Exists in Graph
+------------------------------------------------------------
+Day 39 | 04 August 2026 (Tuesday)
+Topic: Graph Basics
+Subtopic/Concept: Detonate Bombs, Unreachable Pairs, Minimum Score Path
+  - Problem 1: 2101. Detonate the Maximum Bombs
+  - Problem 2: 2316. Count Unreachable Pairs of Nodes in an Undirected Graph
+  - Problem 3: 2492. Minimum Score of a Path Between Two Cities
+------------------------------------------------------------
+Day 40 | 05 August 2026 (Wednesday)
+Topic: Graph Basics
+Subtopic/Concept: Maximal Network Rank, Possible Bipartition, Is Bipartite
+  - Problem 1: 1615. Maximal Network Rank
+  - Problem 2: 886. Possible Bipartition
+  - Problem 3: 785. Is Graph Bipartite?
+
+================================================================================
+🚀 PHASE 4: CORE GRAPH ALGORITHMS (DAYS 41-59)
+================================================================================
+Day 41 | 06 August 2026 (Thursday)
+Topic: DFS
+Subtopic/Concept: Number of Islands, Surrounded Regions, Max Area DFS
+  - Problem 1: 200. Number of Islands
+  - Problem 2: 130. Surrounded Regions
+  - Problem 3: 695. Max Area of Island
+------------------------------------------------------------
+Day 42 | 07 August 2026 (Friday)
+Topic: DFS
+Subtopic/Concept: Flood Fill, Eventual Safe States, Longest Increasing Path
+  - Problem 1: 733. Flood Fill
+  - Problem 2: 802. Find Eventual Safe States
+  - Problem 3: 329. Longest Increasing Path in a Matrix
+------------------------------------------------------------
+Day 43 | 08 August 2026 (Saturday)
+Topic: DFS
+Subtopic/Concept: Pacific Atlantic Water Flow, Large Island DFS
+  - Problem 1: 417. Pacific Atlantic Water Flow
+  - Problem 2: 827. Making A Large Island
+  - Problem 3: 851. Loud and Rich
+------------------------------------------------------------
+Day 44 | 09 August 2026 (Sunday)
+Topic: DFS
+Subtopic/Concept: All Paths DFS, Color Border, Closed Islands
+  - Problem 1: 797. All Paths From Source to Target
+  - Problem 2: 1034. Coloring A Border
+  - Problem 3: 1254. Number of Closed Islands
+------------------------------------------------------------
+Day 45 | 10 August 2026 (Monday)
+Topic: DFS
+Subtopic/Concept: Time Needed to Inform, Reorder Routes, Sub Islands
+  - Problem 1: 1376. Time Needed to Inform All Employees
+  - Problem 2: 1466. Reorder Routes to Make All Paths Lead to the City Zero
+  - Problem 3: 1905. Count Sub Islands
+------------------------------------------------------------
+Day 46 | 11 August 2026 (Tuesday)
+Topic: BFS
+Subtopic/Concept: Rotting Oranges & Word Ladder I & II
+  - Problem 1: 994. Rotting Oranges
+  - Problem 2: 127. Word Ladder
+  - Problem 3: 126. Word Ladder II
+------------------------------------------------------------
+Day 47 | 12 August 2026 (Wednesday)
+Topic: BFS
+Subtopic/Concept: Walls and Gates, Open the Lock, Sliding Puzzle
+  - Problem 1: 286. Walls and Gates
+  - Problem 2: 752. Open the Lock
+  - Problem 3: 773. Sliding Puzzle
+------------------------------------------------------------
+Day 48 | 13 August 2026 (Thursday)
+Topic: BFS
+Subtopic/Concept: Bus Routes, Snakes & Ladders, Far from Land
+  - Problem 1: 815. Bus Routes
+  - Problem 2: 909. Snakes and Ladders
+  - Problem 3: 1162. As Far from Land as Possible
+------------------------------------------------------------
+Day 49 | 14 August 2026 (Friday)
+Topic: BFS
+Subtopic/Concept: Genetic Mutation, Shortest Path Keys, 01 Matrix
+  - Problem 1: 433. Minimum Genetic Mutation
+  - Problem 2: 864. Shortest Path to Get All Keys
+  - Problem 3: 542. 01 Matrix
+------------------------------------------------------------
+Day 50 | 15 August 2026 (Saturday)
+Topic: BFS
+Subtopic/Concept: Shortest Path in Matrix, Watched Videos, Nearest Exit BFS
+  - Problem 1: 1091. Shortest Path in Binary Matrix
+  - Problem 2: 1311. Get Watched Videos by Your Friends
+  - Problem 3: 1926. Nearest Exit from Entrance in Maze
+------------------------------------------------------------
+Day 51 | 16 August 2026 (Sunday)
+Topic: Union-Find (DSU)
+Subtopic/Concept: Graph Valid Tree, Redundant Connection, Connected Components DSU
+  - Problem 1: 261. Graph Valid Tree
+  - Problem 2: 684. Redundant Connection
+  - Problem 3: 323. Number of Connected Components in an Undirected Graph
+------------------------------------------------------------
+Day 52 | 17 August 2026 (Monday)
+Topic: Union-Find (DSU)
+Subtopic/Concept: Accounts Merge, Largest Component Size, Equality Equations
+  - Problem 1: 721. Accounts Merge
+  - Problem 2: 952. Largest Component Size by Common Factor
+  - Problem 3: 990. Satisfiability of Equality Equations
+------------------------------------------------------------
+Day 53 | 18 August 2026 (Tuesday)
+Topic: Union-Find (DSU)
+Subtopic/Concept: Network Connections DSU, Remove Max Edges, Threshold DSU
+  - Problem 1: 1319. Number of Operations to Make Network Connected
+  - Problem 2: 1579. Remove Max Number of Edges to Keep Graph Connected
+  - Problem 3: 1627. Graph Connectivity With Threshold
+------------------------------------------------------------
+Day 54 | 19 August 2026 (Wednesday)
+Topic: Union-Find (DSU)
+Subtopic/Concept: Redundant Connection II, Similar String Groups
+  - Problem 1: 685. Redundant Connection II
+  - Problem 2: 839. Similar String Groups
+  - Problem 3: 924. Minimize Malware Spread
+------------------------------------------------------------
+Day 55 | 20 August 2026 (Thursday)
+Topic: Union-Find (DSU)
+Subtopic/Concept: Minimize Malware II, Smallest String Swaps, Edge Length paths
+  - Problem 1: 928. Minimize Malware Spread II
+  - Problem 2: 1202. Smallest String With Swaps
+  - Problem 3: 1697. Checking Existence of Edge Length Limited Paths
+------------------------------------------------------------
+Day 56 | 21 August 2026 (Friday)
+Topic: Topological Sort
+Subtopic/Concept: Course Schedule I & II, Minimum Height Trees
+  - Problem 1: 207. Course Schedule
+  - Problem 2: 210. Course Schedule II
+  - Problem 3: 310. Minimum Height Trees
+------------------------------------------------------------
+Day 57 | 22 August 2026 (Saturday)
+Topic: Topological Sort
+Subtopic/Concept: Sort Items by Group, Course Schedule IV, Loud and Rich Topological
+  - Problem 1: 1203. Sort Items by Groups Respecting Dependencies
+  - Problem 2: 1462. Course Schedule IV
+  - Problem 3: 851. Loud and Rich (Topological version)
+------------------------------------------------------------
+Day 58 | 23 August 2026 (Sunday)
+Topic: Topological Sort
+Subtopic/Concept: Alien Dictionary, Sequence Reconstruction, Parallel Courses
+  - Problem 1: 269. Alien Dictionary
+  - Problem 2: 444. Sequence Reconstruction
+  - Problem 3: 1136. Parallel Courses
+------------------------------------------------------------
+Day 59 | 24 August 2026 (Monday)
+Topic: Topological Sort
+Subtopic/Concept: Largest Color Value, Parallel Courses III, Matrix with Conditions
+  - Problem 1: 1857. Largest Color Value in a Directed Graph
+  - Problem 2: 2050. Parallel Courses III
+  - Problem 3: 2392. Build a Matrix With Conditions
+
+================================================================================
+🚀 PHASE 5: ADVANCED GRAPHS & CLASSICAL RECURSION (DAYS 60-82)
+================================================================================
+Day 60 | 25 August 2026 (Tuesday)
+Topic: Shortest Path
+Subtopic/Concept: Network Delay Time, Cheapest Flights, Max Probability Path
+  - Problem 1: 743. Network Delay Time
+  - Problem 2: 787. Cheapest Flights Within K Stops
+  - Problem 3: 1514. Path with Maximum Probability
+------------------------------------------------------------
+Day 61 | 26 August 2026 (Wednesday)
+Topic: Shortest Path
+Subtopic/Concept: Minimum Effort, Swim in Rising Water, Shortest Path All Nodes
+  - Problem 1: 1631. Path With Minimum Effort
+  - Problem 2: 778. Swim in Rising Water
+  - Problem 3: 847. Shortest Path Visiting All Nodes
+------------------------------------------------------------
+Day 62 | 27 August 2026 (Thursday)
+Topic: Shortest Path
+Subtopic/Concept: Reachable Nodes, City Neighbors, Minimum Cost Valid Path
+  - Problem 1: 882. Reachable Nodes In Subdivided Graph
+  - Problem 2: 1334. Find the City With the Smallest Number of Neighbors
+  - Problem 3: 1368. Minimum Cost to Make at Least One Valid Path
+------------------------------------------------------------
+Day 63 | 28 August 2026 (Friday)
+Topic: Shortest Path
+Subtopic/Concept: People with Secret, Obstacle Removal, Minimum Time Grid Cell
+  - Problem 1: 2092. Find All People With Secret
+  - Problem 2: 2290. Minimum Obstacle Removal to Reach Corner
+  - Problem 3: 2577. Minimum Time to Visit a Cell in a Grid
+------------------------------------------------------------
+Day 64 | 29 August 2026 (Saturday)
+Topic: Shortest Path
+Subtopic/Concept: Modify Graph Weights, Alternating Colors, Evaluate Division Path
+  - Problem 1: 2699. Modify Graph Edge Weights
+  - Problem 2: 1129. Shortest Path with Alternating Colors
+  - Problem 3: 399. Evaluate Division
+------------------------------------------------------------
+Day 65 | 30 August 2026 (Sunday)
+Topic: Shortest Path
+Subtopic/Concept: Ways to Arrive at Destination, Second Min Time, Shortest Cycle
+  - Problem 1: 1976. Number of Ways to Arrive at Destination
+  - Problem 2: 2045. Second Minimum Time to Reach Destination
+  - Problem 3: 2608. Shortest Cycle in a Graph
+------------------------------------------------------------
+Day 66 | 31 August 2026 (Monday)
+Topic: Minimum Spanning Tree (MST)
+Subtopic/Concept: Min Cost Connect Points, Critical/Pseudo MST Edges
+  - Problem 1: 1584. Min Cost to Connect All Points
+  - Problem 2: 1489. Find Critical and Pseudo-Critical Edges in MST
+  - Problem 3: 1168. Optimize Water Distribution in a Village
+------------------------------------------------------------
+Day 67 | 01 September 2026 (Tuesday)
+Topic: Minimum Spanning Tree (MST)
+Subtopic/Concept: Connecting Cities, Remove Max Edges, Edge Length MST
+  - Problem 1: 1135. Connecting Cities With Minimum Cost
+  - Problem 2: 1579. Remove Max Number of Edges to Keep Graph Connected (MST version)
+  - Problem 3: 1697. Checking Existence of Edge Length Limited Paths (MST version)
+------------------------------------------------------------
+Day 68 | 02 September 2026 (Wednesday)
+Topic: Minimum Spanning Tree (MST)
+Subtopic/Concept: Critical Connections in Network, Shortest Superstring TSP
+  - Problem 1: 1192. Critical Connections in a Network
+  - Problem 2: 943. Find the Shortest Superstring (TSP version)
+  - Problem 3: 834. Sum of Distances in Tree
+------------------------------------------------------------
+Day 69 | 03 September 2026 (Thursday)
+Topic: Minimum Spanning Tree (MST)
+Subtopic/Concept: Minimum One Bit Operations, Splitting String, Invited Employees
+  - Problem 1: 1611. Minimum One Bit Operations to Make Integers Zero
+  - Problem 2: 1849. Splitting a String Into Descending Consecutive Values
+  - Problem 3: 2127. Maximum Employees to Be Invited to a Meeting
+------------------------------------------------------------
+Day 70 | 04 September 2026 (Friday)
+Topic: Recursion
+Subtopic/Concept: Pow(x, n), Generate Parentheses, Add Two Numbers Recursion
+  - Problem 1: 50. Pow(x, n)
+  - Problem 2: 22. Generate Parentheses
+  - Problem 3: 2. Add Two Numbers
+------------------------------------------------------------
+Day 71 | 05 September 2026 (Saturday)
+Topic: Recursion
+Subtopic/Concept: Swap Nodes Recursion, Reverse Nodes in K-Group, Reverse Linked List
+  - Problem 1: 24. Swap Nodes in Pairs
+  - Problem 2: 25. Reverse Nodes in k-Group
+  - Problem 3: 206. Reverse Linked List
+------------------------------------------------------------
+Day 72 | 06 September 2026 (Sunday)
+Topic: Recursion
+Subtopic/Concept: Merge Sorted Lists, Decode String, Tribonacci
+  - Problem 1: 21. Merge Two Sorted Lists
+  - Problem 2: 394. Decode String
+  - Problem 3: 1137. N-th Tribonacci Number
+------------------------------------------------------------
+Day 73 | 07 September 2026 (Monday)
+Topic: Recursion
+Subtopic/Concept: Fibonacci, Reverse String, Palindrome LL Recursion
+  - Problem 1: 509. Fibonacci Number
+  - Problem 2: 344. Reverse String
+  - Problem 3: 234. Palindrome Linked List
+------------------------------------------------------------
+Day 74 | 08 September 2026 (Tuesday)
+Topic: Recursion
+Subtopic/Concept: K-th Symbol in Grammar, Winner of Circular Game, Different Ways
+  - Problem 1: 779. K-th Symbol in Grammar
+  - Problem 2: 1823. Find the Winner of the Circular Game
+  - Problem 3: 241. Different Ways to Add Parentheses
+------------------------------------------------------------
+Day 75 | 09 September 2026 (Wednesday)
+Topic: Recursion
+Subtopic/Concept: Strobogrammatic Number II, Power of Three, Power of Four
+  - Problem 1: 247. Strobogrammatic Number II
+  - Problem 2: 326. Power of Three
+  - Problem 3: 342. Power of Four
+------------------------------------------------------------
+Day 76 | 10 September 2026 (Thursday)
+Topic: Backtracking
+Subtopic/Concept: Subsets I & II (Backtracking)
+  - Problem 1: 78. Subsets
+  - Problem 2: 90. Subsets II
+  - Problem 3: 46. Permutations
+------------------------------------------------------------
+Day 77 | 11 September 2026 (Friday)
+Topic: Backtracking
+Subtopic/Concept: Permutations II, Combination Sum I & II
+  - Problem 1: 47. Permutations II
+  - Problem 2: 39. Combination Sum
+  - Problem 3: 40. Combination Sum II
+------------------------------------------------------------
+Day 78 | 12 September 2026 (Saturday)
+Topic: Backtracking
+Subtopic/Concept: Word Search, Phone Letters, N-Queens I
+  - Problem 1: 79. Word Search
+  - Problem 2: 17. Letter Combinations of a Phone Number
+  - Problem 3: 51. N-Queens
+------------------------------------------------------------
+Day 79 | 13 September 2026 (Sunday)
+Topic: Backtracking
+Subtopic/Concept: N-Queens II, Sudoku Solver, Palindrome Partitioning
+  - Problem 1: 52. N-Queens II
+  - Problem 2: 37. Sudoku Solver
+  - Problem 3: 131. Palindrome Partitioning
+------------------------------------------------------------
+Day 80 | 14 September 2026 (Monday)
+Topic: Backtracking
+Subtopic/Concept: Restore IP Addresses, Combination Sum III, Combinations
+  - Problem 1: 93. Restore IP Addresses
+  - Problem 2: 216. Combination Sum III
+  - Problem 3: 77. Combinations
+------------------------------------------------------------
+Day 81 | 15 September 2026 (Tuesday)
+Topic: Backtracking
+Subtopic/Concept: Remove Invalid Parentheses, Binary Watch, Robot Room Cleaner
+  - Problem 1: 301. Remove Invalid Parentheses
+  - Problem 2: 401. Binary Watch
+  - Problem 3: 489. Robot Room Cleaner
+------------------------------------------------------------
+Day 82 | 16 September 2026 (Wednesday)
+Topic: Backtracking
+Subtopic/Concept: Maximum Length String Unique, Beautiful Arrangement, Unique Paths III
+  - Problem 1: 1239. Maximum Length of a Concatenated String with Unique Characters
+  - Problem 2: 526. Beautiful Arrangement
+  - Problem 3: 980. Unique Paths III
+
+================================================================================
+🚀 PHASE 6: OPTIMIZATION & DYNAMIC PROGRAMMING (DAYS 83-114)
+================================================================================
+Day 83 | 17 September 2026 (Thursday)
+Topic: Greedy
+Subtopic/Concept: Jump Game I & II, Gas Station Greedy
+  - Problem 1: 55. Jump Game
+  - Problem 2: 45. Jump Game II
+  - Problem 3: 134. Gas Station
+------------------------------------------------------------
+Day 84 | 18 September 2026 (Friday)
+Topic: Greedy
+Subtopic/Concept: Non-overlapping Intervals, Merge Intervals, Candy Greedy
+  - Problem 1: 435. Non-overlapping Intervals
+  - Problem 2: 56. Merge Intervals
+  - Problem 3: 135. Candy
+------------------------------------------------------------
+Day 85 | 19 September 2026 (Saturday)
+Topic: Greedy
+Subtopic/Concept: Queue Reconstruction, Burst Balloons Arrows, Can Place Flowers
+  - Problem 1: 406. Queue Reconstruction by Height
+  - Problem 2: 452. Minimum Number of Arrows to Burst Balloons
+  - Problem 3: 605. Can Place Flowers
+------------------------------------------------------------
+Day 86 | 20 September 2026 (Sunday)
+Topic: Greedy
+Subtopic/Concept: Partition Labels, Lemonade Change, Validate Stack Sequences
+  - Problem 1: 763. Partition Labels
+  - Problem 2: 860. Lemonade Change
+  - Problem 3: 946. Validate Stack Sequences
+------------------------------------------------------------
+Day 87 | 21 September 2026 (Monday)
+Topic: Greedy
+Subtopic/Concept: Two City Scheduling, Split String Balanced, Longest Happy String
+  - Problem 1: 1029. Two City Scheduling
+  - Problem 2: 1221. Split a String in Balanced Strings
+  - Problem 3: 1405. Longest Happy String
+------------------------------------------------------------
+Day 88 | 22 September 2026 (Tuesday)
+Topic: Greedy
+Subtopic/Concept: Maximum Units on Truck, Longest Palindrome, Task Scheduler Greedy
+  - Problem 1: 1710. Maximum Units on a Truck
+  - Problem 2: 409. Longest Palindrome
+  - Problem 3: 621. Task Scheduler (Greedy approach)
+------------------------------------------------------------
+Day 89 | 23 September 2026 (Wednesday)
+Topic: Greedy
+Subtopic/Concept: Max Events Attended, Rope Colorful, Alternating Binary String
+  - Problem 1: 1353. Maximum Number of Events That Can Be Attended
+  - Problem 2: 1578. Minimum Time to Make Rope Colorful
+  - Problem 3: 1758. Minimum Changes To Make Alternating Binary String
+------------------------------------------------------------
+Day 90 | 24 September 2026 (Thursday)
+Topic: Dynamic Programming
+Subtopic/Concept: Climbing Stairs, House Robber I & II
+  - Problem 1: 70. Climbing Stairs
+  - Problem 2: 198. House Robber
+  - Problem 3: 213. House Robber II
+------------------------------------------------------------
+Day 91 | 25 September 2026 (Friday)
+Topic: Dynamic Programming
+Subtopic/Concept: Decode Ways, Min Cost Climbing, Stock Cooldown
+  - Problem 1: 91. Decode Ways
+  - Problem 2: 746. Min Cost Climbing Stairs
+  - Problem 3: 309. Best Time to Buy and Sell Stock with Cooldown
+------------------------------------------------------------
+Day 92 | 26 September 2026 (Saturday)
+Topic: Dynamic Programming
+Subtopic/Concept: Unique Paths I & II, Minimum Path Sum
+  - Problem 1: 62. Unique Paths
+  - Problem 2: 63. Unique Paths II
+  - Problem 3: 64. Minimum Path Sum
+------------------------------------------------------------
+Day 93 | 27 September 2026 (Sunday)
+Topic: Dynamic Programming
+Subtopic/Concept: Triangle, Maximal Square, Minimum Falling Path
+  - Problem 1: 120. Triangle
+  - Problem 2: 221. Maximal Square
+  - Problem 3: 931. Minimum Falling Path Sum
+------------------------------------------------------------
+Day 94 | 28 September 2026 (Monday)
+Topic: Dynamic Programming
+Subtopic/Concept: LCS, Delete Operation, Edit Distance
+  - Problem 1: 1143. Longest Common Subsequence
+  - Problem 2: 583. Delete Operation for Two Strings
+  - Problem 3: 72. Edit Distance
+------------------------------------------------------------
+Day 95 | 29 September 2026 (Tuesday)
+Topic: Dynamic Programming
+Subtopic/Concept: Longest Increasing Subsequence, Number of LIS, Russian Doll
+  - Problem 1: 300. Longest Increasing Subsequence
+  - Problem 2: 673. Number of Longest Increasing Subsequence
+  - Problem 3: 354. Russian Doll Envelopes
+------------------------------------------------------------
+Day 96 | 30 September 2026 (Wednesday)
+Topic: Dynamic Programming
+Subtopic/Concept: Partition Equal Subset, Target Sum, Last Stone Weight II
+  - Problem 1: 416. Partition Equal Subset Sum
+  - Problem 2: 494. Target Sum
+  - Problem 3: 1049. Last Stone Weight II
+------------------------------------------------------------
+Day 97 | 01 October 2026 (Thursday)
+Topic: Dynamic Programming
+Subtopic/Concept: Coin Change I & II, Combination Sum IV
+  - Problem 1: 322. Coin Change
+  - Problem 2: 518. Coin Change II
+  - Problem 3: 377. Combination Sum IV
+------------------------------------------------------------
+Day 98 | 02 October 2026 (Friday)
+Topic: Dynamic Programming
+Subtopic/Concept: Burst Balloons, Minimum Score Triangulation, Minimum Insertion Palindrome
+  - Problem 1: 312. Burst Balloons
+  - Problem 2: 1039. Minimum Score Triangulation of Polygon
+  - Problem 3: 1312. Minimum Insertion Steps to Make a String Palindrome
+------------------------------------------------------------
+Day 99 | 03 October 2026 (Saturday)
+Topic: Dynamic Programming
+Subtopic/Concept: Stick Cutting, Stone Merging, House Robber III Tree DP
+  - Problem 1: 1547. Minimum Cost to Cut a Stick
+  - Problem 2: 1000. Minimum Cost to Merge Stones
+  - Problem 3: 337. House Robber III
+------------------------------------------------------------
+Day 100 | 04 October 2026 (Sunday)
+Topic: Dynamic Programming
+Subtopic/Concept: Unique BSTs I & II, Tree Max Path Sum
+  - Problem 1: 96. Unique Binary Search Trees
+  - Problem 2: 95. Unique Binary Search Trees II
+  - Problem 3: 124. Binary Tree Maximum Path Sum
+------------------------------------------------------------
+Day 101 | 05 October 2026 (Monday)
+Topic: Dynamic Programming
+Subtopic/Concept: Digit DP Basics & Range Sums
+  - Problem 1: 233. Number of Digit One
+  - Problem 2: 902. Numbers At Most N Given Digit Set
+  - Problem 3: 600. Non-negative Integers without Consecutive Ones
+------------------------------------------------------------
+Day 102 | 06 October 2026 (Tuesday)
+Topic: Dynamic Programming
+Subtopic/Concept: Numbers with Repeated Digits, Count Unique Digits, Longest Palindromic
+  - Problem 1: 1012. Numbers With Repeated Digits
+  - Problem 2: 357. Count Numbers with Unique Digits
+  - Problem 3: 5. Longest Palindromic Substring
+------------------------------------------------------------
+Day 103 | 07 October 2026 (Wednesday)
+Topic: Dynamic Programming
+Subtopic/Concept: Distinct Subsequences, Pascal's Triangle I & II Combinatorial
+  - Problem 1: 115. Distinct Subsequences
+  - Problem 2: 118. Pascal's Triangle
+  - Problem 3: 119. Pascal's Triangle II
+------------------------------------------------------------
+Day 104 | 08 October 2026 (Thursday)
+Topic: Dynamic Programming
+Subtopic/Concept: Buy/Sell Stock III & IV, Word Break I
+  - Problem 1: 123. Best Time to Buy and Sell Stock III
+  - Problem 2: 188. Best Time to Buy and Sell Stock IV
+  - Problem 3: 139. Word Break
+------------------------------------------------------------
+Day 105 | 09 October 2026 (Friday)
+Topic: Dynamic Programming
+Subtopic/Concept: Word Break II, Ugly Number II DP, Perfect Squares
+  - Problem 1: 140. Word Break II
+  - Problem 2: 264. Ugly Number II (DP version)
+  - Problem 3: 279. Perfect Squares
+------------------------------------------------------------
+Day 106 | 10 October 2026 (Saturday)
+Topic: Dynamic Programming
+Subtopic/Concept: Range Sum Query, Range Sum 2D, Super Ugly Number
+  - Problem 1: 303. Range Sum Query - Immutable
+  - Problem 2: 304. Range Sum Query 2D - Immutable
+  - Problem 3: 313. Super Ugly Number
+------------------------------------------------------------
+Day 107 | 11 October 2026 (Sunday)
+Topic: Dynamic Programming
+Subtopic/Concept: Create Max Number, Integer Break, Largest Divisible Subset
+  - Problem 1: 321. Create Maximum Number
+  - Problem 2: 343. Integer Break
+  - Problem 3: 368. Largest Divisible Subset
+------------------------------------------------------------
+Day 108 | 12 October 2026 (Monday)
+Topic: Dynamic Programming
+Subtopic/Concept: Guess Number II, Arithmetic Slices I & II
+  - Problem 1: 375. Guess Number Higher or Lower II
+  - Problem 2: 413. Arithmetic Slices
+  - Problem 3: 446. Arithmetic Slices II - Subsequence
+------------------------------------------------------------
+Day 109 | 13 October 2026 (Tuesday)
+Topic: Dynamic Programming
+Subtopic/Concept: Can I Win, Ones and Zeroes, Predict the Winner
+  - Problem 1: 464. Can I Win
+  - Problem 2: 474. Ones and Zeroes
+  - Problem 3: 486. Predict the Winner
+------------------------------------------------------------
+Day 110 | 14 October 2026 (Wednesday)
+Topic: Dynamic Programming
+Subtopic/Concept: Freedom Trail, Longest Palindromic Subsequence, Student Attendance II
+  - Problem 1: 514. Freedom Trail
+  - Problem 2: 516. Longest Palindromic Subsequence
+  - Problem 3: 552. Student Attendance Record II
+------------------------------------------------------------
+Day 111 | 15 October 2026 (Thursday)
+Topic: Dynamic Programming
+Subtopic/Concept: Out of Boundary Paths, Shopping Offers
+  - Problem 1: 576. Out of Boundary Paths
+  - Problem 2: 638. Shopping Offers
+  - Problem 3: 647. Palindromic Substrings
+------------------------------------------------------------
+Day 112 | 16 October 2026 (Friday)
+Topic: Dynamic Programming
+Subtopic/Concept: 2 Keys Keyboard, Strange Printer, Knight Probability
+  - Problem 1: 650. 2 Keys Keyboard
+  - Problem 2: 664. Strange Printer
+  - Problem 3: 688. Knight Probability in Chessboard
+------------------------------------------------------------
+Day 113 | 17 October 2026 (Saturday)
+Topic: Dynamic Programming
+Subtopic/Concept: Stickers to Spell, Minimum ASCII Delete, Transaction Stocks
+  - Problem 1: 691. Stickers to Spell Word
+  - Problem 2: 712. Minimum ASCII Delete Sum for Two Strings
+  - Problem 3: 714. Best Time to Buy and Sell Stock with Transaction Fee
+------------------------------------------------------------
+Day 114 | 18 October 2026 (Sunday)
+Topic: Dynamic Programming
+Subtopic/Concept: Max Length Repeated Subarray, Count Different Palindromic, Domino Tiling
+  - Problem 1: 718. Maximum Length of Repeated Subarray
+  - Problem 2: 730. Count Different Palindromic Subsequences
+  - Problem 3: 790. Domino and Tromino Tiling
+
+================================================================================
+🚀 PHASE 7: ADVANCED DATA STRUCTURES (LINEAR & RANGE) (DAYS 115-133)
+================================================================================
+Day 115 | 19 October 2026 (Monday)
+Topic: Monotonic Stack
+Subtopic/Concept: Next Greater Element I & II, Daily Temperatures
+  - Problem 1: 496. Next Greater Element I
+  - Problem 2: 503. Next Greater Element II
+  - Problem 3: 739. Daily Temperatures
+------------------------------------------------------------
+Day 116 | 20 October 2026 (Tuesday)
+Topic: Monotonic Stack
+Subtopic/Concept: Online Stock Span, Largest Rectangle, Maximal Rectangle
+  - Problem 1: 901. Online Stock Span
+  - Problem 2: 84. Largest Rectangle in Histogram
+  - Problem 3: 85. Maximal Rectangle
+------------------------------------------------------------
+Day 117 | 21 October 2026 (Wednesday)
+Topic: Monotonic Stack
+Subtopic/Concept: Trapping Rain Water, Remove Duplicate Letters, Remove K Digits
+  - Problem 1: 42. Trapping Rain Water
+  - Problem 2: 316. Remove Duplicate Letters
+  - Problem 3: 402. Remove K Digits
+------------------------------------------------------------
+Day 118 | 22 October 2026 (Thursday)
+Topic: Monotonic Stack
+Subtopic/Concept: 132 Pattern, Shortest Unsorted, Maximum Width Ramp
+  - Problem 1: 456. 132 Pattern
+  - Problem 2: 581. Shortest Unsorted Continuous Subarray
+  - Problem 3: 962. Maximum Width Ramp
+------------------------------------------------------------
+Day 119 | 23 October 2026 (Friday)
+Topic: Monotonic Stack
+Subtopic/Concept: Next Greater Node in LL, Smallest Subsequence, Car Fleet II
+  - Problem 1: 1019. Next Greater Node In Linked List
+  - Problem 2: 1081. Smallest Subsequence of Distinct Characters
+  - Problem 3: 1776. Car Fleet II
+------------------------------------------------------------
+Day 120 | 24 October 2026 (Saturday)
+Topic: Monotonic Queue
+Subtopic/Concept: Sliding Window Maximum, Shortest Subarray with Sum at least K
+  - Problem 1: 239. Sliding Window Maximum
+  - Problem 2: 862. Shortest Subarray with Sum at Least K
+  - Problem 3: 918. Maximum Sum Circular Subarray
+------------------------------------------------------------
+Day 121 | 25 October 2026 (Sunday)
+Topic: Monotonic Queue
+Subtopic/Concept: Constrained Subsequence Sum, Longest Continuous Subarray Limit
+  - Problem 1: 1425. Constrained Subsequence Sum
+  - Problem 2: 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
+  - Problem 3: 1499. Max Value of Equation
+------------------------------------------------------------
+Day 122 | 26 October 2026 (Monday)
+Topic: Monotonic Queue
+Subtopic/Concept: Jump Game VI, Length of Last Word Monotonic, Min Size Subarray
+  - Problem 1: 1696. Jump Game VI
+  - Problem 2: 58. Length of Last Word (Monotonic modification)
+  - Problem 3: 209. Minimum Size Subarray Sum (Queue version)
+------------------------------------------------------------
+Day 123 | 27 October 2026 (Tuesday)
+Topic: Monotonic Queue
+Subtopic/Concept: Longest Substring, Longest Repeating, Max Consecutive Ones Queue
+  - Problem 1: 3. Longest Substring (Queue version)
+  - Problem 2: 424. Longest Repeating (Queue version)
+  - Problem 3: 1004. Max Consecutive Ones (Queue version)
+------------------------------------------------------------
+Day 124 | 28 October 2026 (Wednesday)
+Topic: Segment Tree
+Subtopic/Concept: Range Sum Query Mutable, Range Sum 2D Mutable, Smaller Numbers After Self
+  - Problem 1: 307. Range Sum Query - Mutable
+  - Problem 2: 308. Range Sum Query 2D - Mutable
+  - Problem 3: 315. Count of Smaller Numbers After Self
+------------------------------------------------------------
+Day 125 | 29 October 2026 (Thursday)
+Topic: Segment Tree
+Subtopic/Concept: Count of Range Sum, Reverse Pairs, Falling Squares
+  - Problem 1: 327. Count of Range Sum
+  - Problem 2: 493. Reverse Pairs
+  - Problem 3: 699. Falling Squares
+------------------------------------------------------------
+Day 126 | 30 October 2026 (Friday)
+Topic: Segment Tree
+Subtopic/Concept: Range Module, My Calendar III, Rectangle Area II
+  - Problem 1: 715. Range Module
+  - Problem 2: 732. My Calendar III
+  - Problem 3: 850. Rectangle Area II
+------------------------------------------------------------
+Day 127 | 31 October 2026 (Saturday)
+Topic: Segment Tree
+Subtopic/Concept: Online Majority Subarray, Create Sorted Array instructions
+  - Problem 1: 1157. Online Majority Element In Subarray
+  - Problem 2: 1649. Create Sorted Array through Instructions
+  - Problem 3: 2179. Count Good Triplets in an Array
+------------------------------------------------------------
+Day 128 | 01 November 2026 (Sunday)
+Topic: Segment Tree
+Subtopic/Concept: Longest Substring Repeating, Booking Concert Tickets, Longest Increasing Subsequence II
+  - Problem 1: 2213. Longest Substring of One Repeating Character
+  - Problem 2: 2286. Booking Concert Tickets in Groups
+  - Problem 3: 2407. Longest Increasing Subsequence II
+------------------------------------------------------------
+Day 129 | 02 November 2026 (Monday)
+Topic: Segment Tree
+Subtopic/Concept: Pairs Inequality, Handling Sum Queries, Building Alice Bob
+  - Problem 1: 2426. Number of Pairs Satisfying Inequality
+  - Problem 2: 2569. Handling Sum Queries After Update
+  - Problem 3: 2940. Find Building Where Alice and Bob Can Meet
+------------------------------------------------------------
+Day 130 | 03 November 2026 (Tuesday)
+Topic: Fenwick Tree (BIT)
+Subtopic/Concept: Range Sum Query Mutable, Smaller Numbers After Self (BIT)
+  - Problem 1: 307. Range Sum Query - Mutable (BIT version)
+  - Problem 2: 315. Count of Smaller Numbers After Self (BIT version)
+  - Problem 3: 327. Count of Range Sum (BIT version)
+------------------------------------------------------------
+Day 131 | 04 November 2026 (Wednesday)
+Topic: Fenwick Tree (BIT)
+Subtopic/Concept: Reverse Pairs BIT, Count Number of Teams, Queries on Permutation
+  - Problem 1: 493. Reverse Pairs (BIT version)
+  - Problem 2: 1395. Count Number of Teams
+  - Problem 3: 1409. Queries on a Permutation With Key
+------------------------------------------------------------
+Day 132 | 05 November 2026 (Thursday)
+Topic: Fenwick Tree (BIT)
+Subtopic/Concept: Best Team No Conflicts, Create Sorted Array (BIT), Count Good Triplets BIT
+  - Problem 1: 1626. Best Team With No Conflicts
+  - Problem 2: 1649. Create Sorted Array (BIT version)
+  - Problem 3: 2179. Count Good Triplets (BIT version)
+------------------------------------------------------------
+Day 133 | 06 November 2026 (Friday)
+Topic: Fenwick Tree (BIT)
+Subtopic/Concept: Pairs Inequality BIT, Count K-Big Indices, Make Array Empty
+  - Problem 1: 2426. Number of Pairs (BIT version)
+  - Problem 2: 2519. Count Number of K-Big Indices
+  - Problem 3: 2659. Make Array Empty
+
+================================================================================
+🚀 PHASE 8: BITWISE, HASHING, & STRING MATCHING (DAYS 134-152)
+================================================================================
+Day 134 | 07 November 2026 (Saturday)
+Topic: Bit Manipulation
+Subtopic/Concept: Single Number, Number of 1 Bits, Counting Bits
+  - Problem 1: 136. Single Number
+  - Problem 2: 191. Number of 1 Bits
+  - Problem 3: 338. Counting Bits
+------------------------------------------------------------
+Day 135 | 08 November 2026 (Sunday)
+Topic: Bit Manipulation
+Subtopic/Concept: Missing Number, Reverse Bits, Bitwise AND Range
+  - Problem 1: 268. Missing Number
+  - Problem 2: 190. Reverse Bits
+  - Problem 3: 201. Bitwise AND of Numbers Range
+------------------------------------------------------------
+Day 136 | 09 November 2026 (Monday)
+Topic: Bit Manipulation
+Subtopic/Concept: Single Number II & III, Maximum Product Word Lengths
+  - Problem 1: 137. Single Number II
+  - Problem 2: 260. Single Number III
+  - Problem 3: 318. Maximum Product of Word Lengths
+------------------------------------------------------------
+Day 137 | 10 November 2026 (Tuesday)
+Topic: Bit Manipulation
+Subtopic/Concept: Sum of Two Integers, UTF-8 Validation, Number Complement
+  - Problem 1: 371. Sum of Two Integers
+  - Problem 2: 393. UTF-8 Validation
+  - Problem 3: 476. Number Complement
+------------------------------------------------------------
+Day 138 | 11 November 2026 (Wednesday)
+Topic: Bit Manipulation
+Subtopic/Concept: Repeated DNA Sequences Bit, Duplicate Number Bit, Game of Life
+  - Problem 1: 187. Repeated DNA Sequences
+  - Problem 2: 287. Find the Duplicate Number (Bit version)
+  - Problem 3: 289. Game of Life
+------------------------------------------------------------
+Day 139 | 12 November 2026 (Thursday)
+Topic: Bit Manipulation
+Subtopic/Concept: Find the Difference, Hamming Distance, Total Hamming Distance
+  - Problem 1: 389. Find the Difference (Bit version)
+  - Problem 2: 461. Hamming Distance
+  - Problem 3: 477. Total Hamming Distance
+------------------------------------------------------------
+Day 140 | 13 November 2026 (Friday)
+Topic: Rolling Hash
+Subtopic/Concept: DNA Sequences Rolling Hash, Shortest Palindrome, Longest Duplicate
+  - Problem 1: 187. Repeated DNA Sequences (Rolling Hash version)
+  - Problem 2: 214. Shortest Palindrome
+  - Problem 3: 1044. Longest Duplicate Substring
+------------------------------------------------------------
+Day 141 | 14 November 2026 (Saturday)
+Topic: Rolling Hash
+Subtopic/Concept: Longest Repeating Substring, Chunked Palindromic, Distinct Echo Substrings
+  - Problem 1: 1062. Longest Repeating Substring
+  - Problem 2: 1147. Longest Chunked Palindromic Decomposition
+  - Problem 3: 1316. Distinct Echo Substrings
+------------------------------------------------------------
+Day 142 | 15 November 2026 (Sunday)
+Topic: Rolling Hash
+Subtopic/Concept: Longest Happy Prefix, Strings Differ by One, Find Latest Group
+  - Problem 1: 1392. Longest Happy Prefix
+  - Problem 2: 1554. Strings Differ by One Character
+  - Problem 3: 1562. Find Latest Group of Size M
+------------------------------------------------------------
+Day 143 | 16 November 2026 (Monday)
+Topic: Rolling Hash
+Subtopic/Concept: Distinct Substrings Number, Longest Common Subpath, Substring given hash
+  - Problem 1: 1698. Number of Distinct Substrings in a String
+  - Problem 2: 1923. Longest Common Subpath
+  - Problem 3: 2156. Find Substring With Given Hash Value
+------------------------------------------------------------
+Day 144 | 17 November 2026 (Tuesday)
+Topic: String Matching (KMP/Z)
+Subtopic/Concept: Index of First Occurrence, Repeated Substring Pattern, Repeated String Match
+  - Problem 1: 28. Find the Index of the First Occurrence in a String
+  - Problem 2: 459. Repeated Substring Pattern
+  - Problem 3: 686. Repeated String Match
+------------------------------------------------------------
+Day 145 | 18 November 2026 (Wednesday)
+Topic: String Matching (KMP/Z)
+Subtopic/Concept: Rotate String, Longest Happy Prefix KMP, Shortest Palindrome KMP
+  - Problem 1: 796. Rotate String
+  - Problem 2: 1392. Longest Happy Prefix (KMP version)
+  - Problem 3: 214. Shortest Palindrome (KMP version)
+------------------------------------------------------------
+Day 146 | 19 November 2026 (Thursday)
+Topic: String Matching (KMP/Z)
+Subtopic/Concept: Remove Occurrences of Substring, Beautiful Indices I & II
+  - Problem 1: 1910. Remove All Occurrences of a Substring
+  - Problem 2: 3006. Find Beautiful Indices in the Given Array I
+  - Problem 3: 3008. Find Beautiful Indices in the Given Array II
+------------------------------------------------------------
+Day 147 | 20 November 2026 (Friday)
+Topic: String Matching (KMP/Z)
+Subtopic/Concept: Subarrays matching pattern, Scores of Built Strings
+  - Problem 1: 3036. Number of Subarrays That Match a Pattern II
+  - Problem 2: 2223. Sum of Scores of Built Strings
+  - Problem 3: 3045. Count Prefix and Suffix Pairs II
+------------------------------------------------------------
+Day 148 | 21 November 2026 (Saturday)
+Topic: String Matching (KMP/Z)
+Subtopic/Concept: Subtree of Another Tree KMP, Pattern Match I, String Deletions
+  - Problem 1: 572. Subtree of Another Tree
+  - Problem 2: 3034. Number of Subarrays That Match a Pattern I
+  - Problem 3: 2430. Maximum Deletions on a String
+------------------------------------------------------------
+Day 149 | 22 November 2026 (Sunday)
+Topic: Suffix Array
+Subtopic/Concept: Longest Duplicate Substring Suffix, Last Substring Lexicographical
+  - Problem 1: 1044. Longest Duplicate Substring (Suffix Array version)
+  - Problem 2: 1163. Last Substring in Lexicographical Order
+  - Problem 3: 1754. Largest Merge Of Two Strings
+------------------------------------------------------------
+Day 150 | 23 November 2026 (Monday)
+Topic: Suffix Array
+Subtopic/Concept: Number of Distinct Substrings Suffix, Longest Common Subpath Suffix
+  - Problem 1: 1698. Number of Distinct Substrings (Suffix Array version)
+  - Problem 2: 1923. Longest Common Subpath (Suffix Array version)
+  - Problem 3: 5. Longest Palindromic Substring (Suffix Array version)
+------------------------------------------------------------
+Day 151 | 24 November 2026 (Tuesday)
+Topic: Suffix Array
+Subtopic/Concept: Create Maximum Number Suffix, Kth Smallest Lexicographical
+  - Problem 1: 321. Create Maximum Number (Suffix version)
+  - Problem 2: 440. K-th Smallest in Lexicographical Order
+  - Problem 3: 1804. Trie Suffix (Suffix version)
+------------------------------------------------------------
+Day 152 | 25 November 2026 (Wednesday)
+Topic: Suffix Array
+Subtopic/Concept: Max Deletions Suffix, Integer to English Words, Maximum Repeating Substring
+  - Problem 1: 2430. Maximum Deletions (Suffix version)
+  - Problem 2: 273. Integer to English Words
+  - Problem 3: 1668. Maximum Repeating Substring
+
+================================================================================
+🚀 PHASE 9: MATHEMATICS & GAME THEORY (DAYS 153-173)
+================================================================================
+Day 153 | 26 November 2026 (Thursday)
+Topic: Number Theory
+Subtopic/Concept: Count Primes, Perfect Number, Ugly Number
+  - Problem 1: 204. Count Primes
+  - Problem 2: 507. Perfect Number
+  - Problem 3: 263. Ugly Number
+------------------------------------------------------------
+Day 154 | 27 November 2026 (Friday)
+Topic: Number Theory
+Subtopic/Concept: Ugly Number II & III Number Theory, Super Ugly Number
+  - Problem 1: 264. Ugly Number II (Number Theory)
+  - Problem 2: 313. Super Ugly Number (Number Theory)
+  - Problem 3: 1201. Ugly Number III
+------------------------------------------------------------
+Day 155 | 28 November 2026 (Saturday)
+Topic: Number Theory
+Subtopic/Concept: Water and Jug Problem, Consecutive Numbers Sum, Prime Palindrome
+  - Problem 1: 365. Water and Jug Problem
+  - Problem 2: 829. Consecutive Numbers Sum
+  - Problem 3: 866. Prime Palindrome
+------------------------------------------------------------
+Day 156 | 29 November 2026 (Sunday)
+Topic: Number Theory
+Subtopic/Concept: Largest Component Size NT, Smallest Integer Divisible by K, Prime Arrangements
+  - Problem 1: 952. Largest Component Size (Number Theory version)
+  - Problem 2: 1015. Smallest Integer Divisible by K
+  - Problem 3: 1175. Prime Arrangements
+------------------------------------------------------------
+Day 157 | 30 November 2026 (Monday)
+Topic: Number Theory
+Subtopic/Concept: Kth Factor of N, GCD Sort of Array, Closest Prime Numbers
+  - Problem 1: 1492. The kth Factor of n
+  - Problem 2: 1998. GCD Sort of an Array
+  - Problem 3: 2523. Closest Prime Numbers in Range
+------------------------------------------------------------
+Day 158 | 01 December 2026 (Tuesday)
+Topic: Combinatorics
+Subtopic/Concept: Unique Paths Combinatorial, Unique BSTs Catalan, Pascal Combinatorial
+  - Problem 1: 62. Unique Paths (Combinatorics version)
+  - Problem 2: 96. Unique Binary Search Trees (Combinatorics version)
+  - Problem 3: 118. Pascal's Triangle (Combinatorics)
+------------------------------------------------------------
+Day 159 | 02 December 2026 (Wednesday)
+Topic: Combinatorics
+Subtopic/Concept: Pascal Triangle II Combinatorial, Factorial Trailing Zeroes, Cracking Safe
+  - Problem 1: 119. Pascal's Triangle II (Combinatorics)
+  - Problem 2: 172. Factorial Trailing Zeroes
+  - Problem 3: 753. Cracking the Safe
+------------------------------------------------------------
+Day 160 | 03 December 2026 (Thursday)
+Topic: Combinatorics
+Subtopic/Concept: Airplane Seat Assignment, Count Valid Delivery Options, Reorder Array BST
+  - Problem 1: 1227. Airplane Seat Assignment Probability
+  - Problem 2: 1359. Count All Valid Delivery Options
+  - Problem 3: 1569. Number of Ways to Reorder Array to Get Same BST
+------------------------------------------------------------
+Day 161 | 04 December 2026 (Friday)
+Topic: Combinatorics
+Subtopic/Concept: Count Sorted Vowel Strings, Sum of Subset XOR, Ways to Build Rooms
+  - Problem 1: 1641. Count Sorted Vowel Strings
+  - Problem 2: 1863. Sum of All Subset XOR Totals
+  - Problem 3: 1916. Count Ways to Build Rooms in an Ant Colony
+------------------------------------------------------------
+Day 162 | 05 December 2026 (Saturday)
+Topic: Geometry
+Subtopic/Concept: Erect the Fence, Straight Line Check, Max Points on Line
+  - Problem 1: 587. Erect the Fence
+  - Problem 2: 1232. Check If It Is a Straight Line
+  - Problem 3: 149. Max Points on a Line
+------------------------------------------------------------
+Day 163 | 06 December 2026 (Sunday)
+Topic: Geometry
+Subtopic/Concept: Surface Area 3D, K Closest Points, Minimum Area Rectangle
+  - Problem 1: 892. Surface Area of 3D Shapes
+  - Problem 2: 973. K Closest Points (Geometry version)
+  - Problem 3: 939. Minimum Area Rectangle
+------------------------------------------------------------
+Day 164 | 07 December 2026 (Monday)
+Topic: Geometry
+Subtopic/Concept: Minimum Area Rectangle II, Valid Boomerang, Minimum Time Visiting Points
+  - Problem 1: 963. Minimum Area Rectangle II
+  - Problem 2: 1037. Valid Boomerang
+  - Problem 3: 1266. Minimum Time Visiting All Points
+------------------------------------------------------------
+Day 165 | 08 December 2026 (Tuesday)
+Topic: Geometry
+Subtopic/Concept: Circle Rectangle Overlap, Max Darts inside Circle, Visible Points
+  - Problem 1: 1401. Circle and Rectangle Overlapping
+  - Problem 2: 1453. Maximum Number of Darts Inside of a Circular Dartboard
+  - Problem 3: 1610. Maximum Number of Visible Points
+------------------------------------------------------------
+Day 166 | 09 December 2026 (Wednesday)
+Topic: Probability & Statistics
+Subtopic/Concept: Rand10 using Rand7, Knight Probability, Soup Servings
+  - Problem 1: 470. Implement Rand10() Using Rand7()
+  - Problem 2: 688. Knight Probability in Chessboard (Probability version)
+  - Problem 3: 808. Soup Servings
+------------------------------------------------------------
+Day 167 | 10 December 2026 (Thursday)
+Topic: Probability & Statistics
+Subtopic/Concept: New 21 Game, Toss Strange Coins, Probability of Box Distinct Balls
+  - Problem 1: 837. New 21 Game
+  - Problem 2: 1230. Toss Strange Coins
+  - Problem 3: 1467. Probability of a Two Boxes Having The Same Number of Distinct Balls
+------------------------------------------------------------
+Day 168 | 11 December 2026 (Friday)
+Topic: Probability & Statistics
+Subtopic/Concept: Linked List Random Node, Random Pick Index, Random Point Rectangles
+  - Problem 1: 382. Linked List Random Node
+  - Problem 2: 398. Random Pick Index
+  - Problem 3: 497. Random Point in Non-overlapping Rectangles
+------------------------------------------------------------
+Day 169 | 12 December 2026 (Saturday)
+Topic: Probability & Statistics
+Subtopic/Concept: Random Flip Matrix, Random Pick with Weight, Random Pick Blacklist
+  - Problem 1: 519. Random Flip Matrix
+  - Problem 2: 528. Random Pick with Weight
+  - Problem 3: 710. Random Pick with Blacklist
+------------------------------------------------------------
+Day 170 | 13 December 2026 (Sunday)
+Topic: Game Theory
+Subtopic/Concept: Nim Game, Guess Number Higher II Game, Can I Win Game
+  - Problem 1: 292. Nim Game
+  - Problem 2: 375. Guess Number Higher or Lower II (Game Theory)
+  - Problem 3: 464. Can I Win (Game Theory)
+------------------------------------------------------------
+Day 171 | 14 December 2026 (Monday)
+Topic: Game Theory
+Subtopic/Concept: Predict Winner Game, Stone Game I & II
+  - Problem 1: 486. Predict the Winner (Game Theory)
+  - Problem 2: 877. Stone Game
+  - Problem 3: 1140. Stone Game II
+------------------------------------------------------------
+Day 172 | 15 December 2026 (Tuesday)
+Topic: Game Theory
+Subtopic/Concept: Stone Game III & IV & VI
+  - Problem 1: 1406. Stone Game III
+  - Problem 2: 1510. Stone Game IV
+  - Problem 3: 1686. Stone Game VI
+------------------------------------------------------------
+Day 173 | 16 December 2026 (Wednesday)
+Topic: Game Theory
+Subtopic/Concept: Stone Game VII & IX, Divisor Game
+  - Problem 1: 1690. Stone Game VII
+  - Problem 2: 2029. Stone Game IX
+  - Problem 3: 1025. Divisor Game
+
+================================================================================
+🚀 PHASE 10: FINAL SDE REVISION SPRINT (DAYS 174-188)
+================================================================================
+Day 174 | 17 December 2026 (Thursday)
+Topic: Final SDE Revision Sprint
+Subtopic/Concept: SDE Sheet Revision Day 1 - String & Math focus
+  - Problem 1: 12. Integer to Roman
+  - Problem 2: 13. Roman to Integer
+  - Problem 3: 205. Isomorphic Strings
+------------------------------------------------------------
+Day 175 | 18 December 2026 (Friday)
+Topic: Final SDE Revision Sprint
+Subtopic/Concept: SDE Sheet Revision Day 2 - Duplicate checks
+  - Problem 1: 217. Contains Duplicate
+  - Problem 2: 219. Contains Duplicate II
+  - Problem 3: 220. Contains Duplicate III
+------------------------------------------------------------
+Day 176 | 19 December 2026 (Saturday)
+Topic: Final SDE Revision Sprint
+Subtopic/Concept: SDE Sheet Revision Day 3 - Array ranges & majority
+  - Problem 1: 228. Summary Ranges
+  - Problem 2: 229. Majority Element II
+  - Problem 3: 242. Valid Anagram
+------------------------------------------------------------
+Day 177 | 20 December 2026 (Sunday)
+Topic: Final SDE Revision Sprint
+Subtopic/Concept: SDE Sheet Revision Day 4 - Anagrams & Search
+  - Problem 1: 290. Word Pattern
+  - Problem 2: 345. Reverse Vowels of a String
+  - Problem 3: 349. Intersection of Two Arrays
+------------------------------------------------------------
+Day 178 | 21 December 2026 (Monday)
+Topic: Final SDE Revision Sprint
+Subtopic/Concept: SDE Sheet Revision Day 5 - Intersection & Ransom
+  - Problem 1: 350. Intersection of Two Arrays II
+  - Problem 2: 383. Ransom Note
+  - Problem 3: 387. First Unique Character in a String
+------------------------------------------------------------
+Day 179 | 22 December 2026 (Tuesday)
+Topic: Final SDE Revision Sprint
+Subtopic/Concept: SDE Sheet Revision Day 6 - Difference, Subsequence, FizzBuzz
+  - Problem 1: 389. Find the Difference
+  - Problem 2: 392. Is Subsequence
+  - Problem 3: 412. Fizz Buzz
+------------------------------------------------------------
+Day 180 | 23 December 2026 (Wednesday)
+Topic: Final SDE Revision Sprint
+Subtopic/Concept: SDE Sheet Revision Day 7 - Third Max, Compression, Disappeared Array
+  - Problem 1: 414. Third Maximum Number
+  - Problem 2: 443. String Compression
+  - Problem 3: 448. Find All Numbers Disappeared in an Array
+------------------------------------------------------------
+Day 181 | 24 December 2026 (Thursday)
+Topic: Final SDE Revision Sprint
+Subtopic/Concept: SDE Sheet Revision Day 8 - Max Consecutive, Teemo, Keyboard
+  - Problem 1: 485. Max Consecutive Ones
+  - Problem 2: 495. Teemo Attacking
+  - Problem 3: 500. Keyboard Row
+------------------------------------------------------------
+Day 182 | 25 December 2026 (Friday)
+Topic: Final SDE Revision Sprint
+Subtopic/Concept: SDE Sheet Revision Day 9 - Relative Ranks, Capital Detect, Attendance
+  - Problem 1: 506. Relative Ranks
+  - Problem 2: 520. Detect Capital
+  - Problem 3: 551. Student Attendance Record I
+------------------------------------------------------------
+Day 183 | 26 December 2026 (Saturday)
+Topic: Final SDE Revision Sprint
+Subtopic/Concept: SDE Sheet Revision Day 10 - Reverse Words, Partition, Reshape
+  - Problem 1: 557. Reverse Words in a String III
+  - Problem 2: 561. Array Partition
+  - Problem 3: 566. Reshape the Matrix
+------------------------------------------------------------
+Day 184 | 27 December 2026 (Sunday)
+Topic: Final SDE Revision Sprint
+Subtopic/Concept: SDE Sheet Revision Day 11 - Distribute Candies, Harmonious, Range Addition
+  - Problem 1: 575. Distribute Candies
+  - Problem 2: 594. Longest Harmonious Subsequence
+  - Problem 3: 598. Range Addition II
+------------------------------------------------------------
+Day 185 | 28 December 2026 (Monday)
+Topic: Final SDE Revision Sprint
+Subtopic/Concept: SDE Sheet Revision Day 12 - Index Sum, Max Product, Avg Subarray
+  - Problem 1: 599. Minimum Index Sum of Two Lists
+  - Problem 2: 628. Maximum Product of Three Numbers
+  - Problem 3: 643. Maximum Average Subarray I
+------------------------------------------------------------
+Day 186 | 29 December 2026 (Tuesday)
+Topic: Final SDE Revision Sprint
+Subtopic/Concept: SDE Sheet Revision Day 13 - Set Mismatch, Robot Return, Continuous Subarray
+  - Problem 1: 645. Set Mismatch
+  - Problem 2: 657. Robot Return to Origin
+  - Problem 3: 674. Longest Continuous Increasing Subsequence
+------------------------------------------------------------
+Day 187 | 30 December 2026 (Wednesday)
+Topic: Final SDE Revision Sprint
+Subtopic/Concept: SDE Sheet Revision Day 14 - Palindrome II, Baseball, Binary Substrings
+  - Problem 1: 680. Valid Palindrome II
+  - Problem 2: 682. Baseball Game
+  - Problem 3: 696. Count Binary Substrings
+------------------------------------------------------------
+Day 188 | 31 December 2026 (Thursday)
+Topic: Final SDE Revision Sprint
+Subtopic/Concept: SDE Sheet Revision Day 15 - Degree Array, Two Sum, Reverse List Review
+  - Problem 1: 697. Degree of an Array
+  - Problem 2: 1. Two Sum (Review)
+  - Problem 3: 206. Reverse Linked List (Review)
+------------------------------------------------------------
