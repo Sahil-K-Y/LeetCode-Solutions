@@ -163,7 +163,7 @@ Topic: Binary Search
 Subtopic/Concept: Median of Sorted Arrays & Single Element in Sorted Array
   - Problem 1: 4. Median of Two Sorted Arrays
   - Problem 2: 540. Single Element in a Sorted Array
-  - Problem 3: 703. Kth Largest Element in a Stream
+  - Problem 3: 1283. Find the Smallest Divisor Given a Threshold
 ------------------------------------------------------------
 Day 23 | 19 July 2026 (Sunday)
 Topic: Binary Search
@@ -721,7 +721,7 @@ Topic: Dynamic Programming
 Subtopic/Concept: Unique BSTs I & II, Tree Max Path Sum
   - Problem 1: 96. Unique Binary Search Trees
   - Problem 2: 95. Unique Binary Search Trees II
-  - Problem 3: 124. Binary Tree Maximum Path Sum
+  - Problem 3: 968. Binary Tree Cameras
 ------------------------------------------------------------
 Day 101 | 05 October 2026 (Monday)
 Topic: Dynamic Programming
