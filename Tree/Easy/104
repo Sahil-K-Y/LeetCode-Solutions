@@ -1,0 +1,15 @@
+class Solution {
+public:
+    int DFS(TreeNode* root){
+        if(!root){
+            return 0;
+        }
+        int lt=DFS(root->left);
+        int rt=DFS(root->right);
+        return max(rt,lt)+1;
+    }
+    int maxDepth(TreeNode* root) {
+        int ht=0;
+        return DFS(root);
+    }
+};
